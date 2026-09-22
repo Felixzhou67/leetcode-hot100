@@ -1,6 +1,6 @@
 # LeetCode Hot 100 · Java
 
-使用 Java 持续练习 LeetCode Hot 100。每道题保留独立的 `Solution<题号>.java` 文件，便于复习、调试与逐题补充。
+使用 Java 持续练习 LeetCode Hot 100。每道题保留独立的 `Solution160<题号>.java` 文件，便于复习、调试与逐题补充。
 
 ## 当前进度
 
